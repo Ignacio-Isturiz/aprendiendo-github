@@ -1,5 +1,5 @@
 # aprendiendo-github
 Primer repositorio de este github
 
-##descripcion
+## descripcion
 Repo solo para aprender github
